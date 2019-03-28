@@ -1,4 +1,4 @@
-package com.zut.partymanager;
+package com.zut.pm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
